@@ -1,30 +1,15 @@
-# React + TypeScript + Vite
+# Overengineered To Do App (Front-end)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the front end of my to do app.
 
-Currently, two official plugins are available:
+The back end part of the project can be found [here](https://sampleUrl/).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+My goal with this whole project was initially to learn a functional language, I’m a C# programmer and right way I thought about **F#**. I started studying the language’s syntax and some functional concepts.
 
-## Expanding the ESLint configuration
+After that I decided to develop something specific but I was having problems trying to find what was the best thing I could do with it.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Then I decided to something I have already done a few times with C#, an API, and specifically with F#, I chose the minimal API to keep it as simple as possible in the beginning of my trail.
 
-- Configure the top-level `parserOptions` property like this:
+When I created the project I realized it didn’t make sense to have an API without a client to consume it, and that’s where the **TypeScript** comes in.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Another thing I know I need to study more is the front end and its orbiting concepts, then I decided to use this opportunity and learn more about it, I chose the **React Framework** because while looking for frameworks I read it was the one with the biggest amount of content online, so it would be easier if I encountered any problems, and I choose TypeScript because I’m used to strongly typed programming languages.
