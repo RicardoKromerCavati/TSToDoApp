@@ -4,6 +4,8 @@ This is the front end of my to do app.
 
 The back end part of the project can be found [here](https://sampleUrl/).
 
+## Description
+
 My goal with this whole project was initially to learn a functional language, I’m a C# programmer and right way I thought about **F#**. I started studying the language’s syntax and some functional concepts.
 
 After that I decided to develop something specific but I was having problems trying to find what was the best thing I could do with it.
