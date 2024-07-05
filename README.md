@@ -13,3 +13,6 @@ Then I decided to something I have already done a few times with C#, an API, and
 When I created the project I realized it didn’t make sense to have an API without a client to consume it, and that’s where the **TypeScript** comes in.
 
 Another thing I know I need to study more is the front end and its orbiting concepts, then I decided to use this opportunity and learn more about it, I chose the **React Framework** because while looking for frameworks I read it was the one with the biggest amount of content online, so it would be easier if I encountered any problems, and I choose TypeScript because I’m used to strongly typed programming languages.
+
+## The Overengineered Part
+In my opinion the whole project is a bit overengineered because I believe that an API is not needed to develop a fully working to do app, and it actually depends, but in the end think it was the best title for this project.
